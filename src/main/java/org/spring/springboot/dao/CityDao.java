@@ -28,4 +28,6 @@ public interface CityDao {
     Long deleteCity(Long id);
     
     //aaaa
+    //v1.0
+    //v2.0
 }
